@@ -2,7 +2,8 @@
 <h1 align="center">Hey there! 👋 I'm Atiya Shah</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <p align="center">
- <img id="main-image" src="https://i.postimg.cc/xd5nHCMx/atiya.webp" style="display:block;width:100%;max-width:1000px;" width="200" height="300">
+<!--  <img id="main-image" src="https://i.postimg.cc/xd5nHCMx/atiya.webp" style="display:block;width:100%;max-width:1000px;" width="200" height="300"> -->
+ <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/ef7da79ea9e72eae8d147ddd3e59b2e9b46f4ee413e74514a43815fdfb432960/68747470733a2f2f7777772e6b656570736f6c69642e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31322f67697068792d61727469636c652d746f702d746f6f6c732d666f722d6d616e61676572732e676966" width="355" height="223">
 </p>
 
 - 🔭 I’m currently working on **Python and Generative AI**
